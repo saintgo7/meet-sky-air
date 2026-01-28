@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Office temporary files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Firebase
+firebase-debug.log
+.firebase/
+
+# Temporary files
+*.tmp
+*.temp
